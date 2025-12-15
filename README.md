@@ -3,26 +3,26 @@
 
 <!-- ================= IDENTITY ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&lines=ECE+Engineering+Student;IoT+Innovator+%7C+Embedded+Systems;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:141e30,100:243b55&text=Building%20real-world%20systems%20where%20hardware%20meets%20software&fontSize=20&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:141e30,100:243b55&text=Building%20practical%20systems%20where%20hardware%20meets%20software&fontSize=22&fontColor=ffffff" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=1200&color=FFFFFF&width=1000&lines=Electronics+and+Communication+Engineering+student;Focused+on+Embedded+Systems+and+IoT;Strong+interest+in+Software+Engineering+and+Automation;I+build+systems+that+work+beyond+the+lab" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&pause=1400&color=FFFFFF&width=1100&lines=Electronics+and+Communication+Engineering+Student;Focused+on+Embedded+Systems+and+IoT;Strong+interest+in+Software+Engineering+and+Automation;I+build+real-world+systems+not+just+demo+projects" />
 </p>
 
 ---
 
 <!-- ================= DOMAINS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:0f2027,100:203a43&text=Domains%20I%20Work%20In&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:0f2027,100:203a43&text=Domains%20I%20Work%20In&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/Embedded%20Systems-Core-blue?style=for-the-badge" />
@@ -36,19 +36,19 @@
 ---
 
 <!-- ================= RARE SECTION ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:232526,100:414345&text=How%20I%20Think%20as%20an%20Engineer&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=How%20I%20Think%20as%20an%20Engineer&fontSize=38&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1500&color=FFFFFF&width=1000&lines=Understand+the+problem+before+choosing+technology;Prefer+simple+systems+over+clever+ones;Hardware+and+software+must+be+designed+together;If+it+does+not+work+in+real+conditions+it+is+not+finished" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&pause=1500&color=FFFFFF&width=1100&lines=Understand+the+problem+before+choosing+technology;Prefer+simple+systems+over+clever+ones;Hardware+and+software+must+be+designed+together;If+it+does+not+work+in+real+conditions+it+is+not+finished" />
 </p>
 
-⬆️ **This section is rare**.  
-Most READMEs list tools. Very few show **thinking**. Recruiters notice this.
+⬆️ This section is **rare**.  
+Most profiles list tools. Strong profiles show **thinking**.
 
 ---
 
 <!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%20%2F%20C++-Firmware-blue?style=for-the-badge" />
@@ -60,21 +60,27 @@ Most READMEs list tools. Very few show **thinking**. Recruiters notice this.
 
 ---
 
-<!-- ================= GITHUB OVERVIEW ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:141e30,100:243b55&text=GitHub%20Overview&fontSize=34&fontColor=ffffff" />
+<!-- ================= GITHUB OVERVIEW (TOP 1% STYLE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:141e30,100:243b55&text=GitHub%20Overview&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&custom_title=GitHub%20Activity%20Snapshot" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
+
+✔ Clean  
+✔ No embarrassing focus on “0 contributions”  
+✔ Looks confident, not defensive  
+
+This is **exactly** how strong profiles present stats.
 
 ---
 
 <!-- ================= CONNECT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:0f2027,100:2c5364&text=Connect%20With%20Me&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:0f2027,100:2c5364&text=Connect%20With%20Me&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/boligorla-vengababu-503729349">
@@ -94,4 +100,4 @@ Most READMEs list tools. Very few show **thinking**. Recruiters notice this.
 ---
 
 <!-- ================= FOOTER ================= -->
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&section=footer)
