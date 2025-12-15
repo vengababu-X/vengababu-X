@@ -49,14 +49,12 @@
 ---
 
 <!-- ================= GITHUB OVERVIEW ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:141e30,100:243b55&text=GitHub%20Overview&fontSize=34&fontColor=ffffff" />
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vengabab&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=BoligorlaV24746&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengabab&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoligorlaV24746&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
