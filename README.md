@@ -75,6 +75,13 @@
 </p>
 
 <p align="center">
+  <img 
+    src="assets/file_000000000f84720987764765d1c6079e.png"
+    alt="XKING GitHub Activity Overview"
+    width="900"
+  >
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&theme=tokyonight&hide_border=true&show_icons=false" />
 </p>
 
