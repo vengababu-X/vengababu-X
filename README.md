@@ -13,7 +13,7 @@
 ---
 
 <!-- ================= ABOUT ME ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=44&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&pause=1400&color=FFFFFH&width=1100&lines=Electronics+and+Communication+Engineering+Student;Focused+on+Embedded+Systems+and+IoT;Strong+interest+in+Software+Engineering+and+Automation;I+build+real-world+systems+not+just+demo+projects" />
