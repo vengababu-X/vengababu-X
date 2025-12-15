@@ -114,5 +114,10 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&section=footer)
+---
+
+<hr style="width:40%; margin:auto;">
+
+<p align="center">
+<sub>Engineering systems that survive outside the lab</sub>
+</p>
