@@ -75,17 +75,6 @@
 </p>
 
 
-## 🎧 Focus & Philosophy
-
-<p align="center">
-  <img src="assets/Bhagavad-Gita-English_Front.png"
-       alt="Bhagavad Gita – Philosophy"
-       width="420" />
-</p>
-
-<p align="center">
-  <i>Bhagavad Gita • Discipline • Clarity • Focus Mode</i>
-</p>
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
