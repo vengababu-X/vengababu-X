@@ -74,7 +74,13 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&theme=tokyonight&hide_border=true&show_icons=false" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
