@@ -74,17 +74,23 @@
   />
 </p>
 
-## 🎧 Focus Audio
+
+## 🎧 Focus & Philosophy
 
 <p align="center">
-  <img src="assets/Screenshot_20251215_175411_Instagram.jpg"
-       alt="Bhagavad Gita Telugu – Spotify"
+  <img src="assets/Bhagavad-Gita-English_Front.png"
+       alt="Bhagavad Gita – Philosophy"
        width="420" />
+</p>
+
+<p align="center">
+  <i>Bhagavad Gita • Discipline • Clarity • Focus Mode</i>
 </p>
 
 <p align="center">
   <i>Bhagavad Gita • Telugu Discourses • Chaganti Koteswara Rao</i>
 </p>
+
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
