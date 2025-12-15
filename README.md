@@ -3,33 +3,33 @@
 
 <!-- ================= IDENTITY ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=ECE+Engineering+Student+%7C+Embedded+Systems+%26+IoT;Software+and+Hardware+Engineer+%7C+Google+Student+Ambassador" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:141e30,100:243b55&text=ECE%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Software%20%26%20Hardware&fontSize=26&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:141e30,100:243b55&text=Building%20practical%20systems%20that%20work%20in%20real%20conditions&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:1e3c72,100:2a5298&text=Building%20practical%20systems%20that%20work%20in%20real%20conditions&fontSize=24&fontColor=ffffff" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=46&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:232526,100:414345&text=About%20Me&fontSize=46&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:203a43&text=Electronics%20and%20Communication%20Engineering%20student%20focused%20on%20Embedded%20Systems%2C%20IoT%2C%20and%20system-level%20design&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:0f2027,100:203a43&text=Electronics%20and%20Communication%20Engineering%20student%20focused%20on%20Embedded%20Systems%20and%20IoT%20solutions&fontSize=26&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:203a43&text=I%20build%20real-world%20solutions%20by%20designing%20hardware%20and%20software%20together%2C%20not%20in%20isolation&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:0f2027,100:203a43&text=I%20design%20hardware%20and%20software%20together%20to%20build%20systems%20that%20work%20outside%20the%20lab&fontSize=26&fontColor=ffffff" />
 </p>
 
 ---
 
 <!-- ================= ENGINEERING JOURNEY ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=42&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:1e3c72,100:2a5298&text=Engineering%20Journey&fontSize=42&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&pause=1600&color=FFFFFF&width=1200&lines=Strong+ECE+foundations;Hands-on+Embedded+Systems+with+ESP32;IoT+and+System+Integration;Now+combining+Hardware+thinking+with+Software+architecture" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:232526,100:414345&text=Strong%20ECE%20foundations%20%E2%86%92%20Embedded%20Systems%20with%20ESP32%20%E2%86%92%20IoT%20and%20System%20Integration%20%E2%86%92%20Hardware-Software%20Co-Design&fontSize=24&fontColor=ffffff" />
 </p>
 
 ---
@@ -47,11 +47,11 @@
 
 ---
 
-<!-- ================= ENGINEERING THINKING ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:141e30,100:243b55&text=How%20I%20Think%20as%20an%20Engineer&fontSize=40&fontColor=ffffff" />
+<!-- ================= ENGINEERING MINDSET ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:141e30,100:243b55&text=Engineering%20Mindset&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:232526,100:414345&text=I%20prioritize%20problem%20understanding%20before%20choosing%20tools%2C%20and%20design%20systems%20to%20survive%20real-world%20conditions&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:232526,100:414345&text=Understand%20the%20problem%20before%20choosing%20technology.%20Design%20simple%2C%20reliable%20systems.%20If%20it%20fails%20in%20real%20conditions%2C%20it%20is%20not%20finished.&fontSize=24&fontColor=ffffff" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 ---
 
-<!-- ================= GITHUB OVERVIEW (PRO – CHARTS ONLY) ================= -->
+<!-- ================= GITHUB ACTIVITY (ONLY MOVING PART) ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:0f2027,100:2c5364&text=GitHub%20Activity%20Overview&fontSize=46&fontColor=ffffff" />
 
 <p align="center">
@@ -82,11 +82,11 @@
 
 ---
 
-<!-- ================= CURRENTLY EXPLORING ================= -->
+<!-- ================= CURRENT FOCUS ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:0f2027,100:203a43&text=Edge%20AI%2C%20robust%20hardware-software%20interfaces%2C%20and%20automation%20for%20real-world%20constraints&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:203a43&text=Edge%20AI%20for%20embedded%20devices%2C%20robust%20hardware-software%20interfaces%2C%20and%20automation%20under%20real-world%20constraints&fontSize=24&fontColor=ffffff" />
 </p>
 
 ---
