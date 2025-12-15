@@ -63,11 +63,23 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0f2027,100:2c5364&text=Elite%20GitHub%20Overview&fontSize=44&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0f2027,100:2c5364&text=Elite%20Contributor%20Profile&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&hide=prs,issues,contribs&card_width=500&custom_title=Elite%20Contributor%20Metrics" />
-    <img src="https://github-profile-trophy.vercel.app/?username=vengababu-X&theme=tokyonight&no-border=true" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&hide=prs,issues,contribs&card_width=450&custom_title=Top%201%25%20Developer%20Metrics" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=vengababu-X&theme=tokyonight&no-border=true" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vengababu-X&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
