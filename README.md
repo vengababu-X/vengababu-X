@@ -22,7 +22,7 @@
 ---
 
 <!-- ================= ENGINEERING JOURNEY (RARE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=40&fontColor=fffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1400&color=FFFFF&width=1100&lines=Started+with+ECE+fundamentals;Moved+into+Embedded+Systems+and+ESP32;Expanded+into+IoT+and+System+Integration;Now+combining+Hardware+with+Software+Thinking" />
