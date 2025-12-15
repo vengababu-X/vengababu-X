@@ -86,11 +86,6 @@
 <p align="center">
   <i>Bhagavad Gita • Discipline • Clarity • Focus Mode</i>
 </p>
-
-<p align="center">
-  <i>Bhagavad Gita • Telugu Discourses • Chaganti Koteswara Rao</i>
-</p>
-
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
