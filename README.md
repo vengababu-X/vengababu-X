@@ -67,16 +67,21 @@
 ---
 
 <!-- ================= GITHUB OVERVIEW (TOP 1% STYLE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0f2027,100:2c5364&text=GitHub%20Overview&fontSize=44&fontColor=ffffff" />
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&custom_title=GitHub%20Activity%20Snapshot" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    alt="Most Used Languages"
+  />
 </p>
-
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
