@@ -3,7 +3,7 @@
 </p>
 <!-- ================= IDENTITY ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=40&pause=900&color=FFFFF&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=40&pause=900&color=FFFFFH&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
 </p>
 
 <p align="center">
