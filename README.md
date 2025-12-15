@@ -116,8 +116,10 @@
 
 ---
 
+---
+
 <hr style="width:40%; margin:auto;">
 
 <p align="center">
-<sub>Engineering systems that survive outside the lab</sub>
+<sub>Engineering systems that work beyond the lab</sub>
 </p>
