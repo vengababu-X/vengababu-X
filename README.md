@@ -1,79 +1,78 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Embedded%20%26%20IoT%20Engineer&fontSize=44&fontColor=ffffff)
+<!-- HEADER SVG -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Vengababu&fontSize=52&fontColor=ffffff&animation=fadeIn)
 
-<h1 align="center">
-ECE Engineer • Embedded Systems • IoT • Automation • AI-Integrated Hardware
-</h1>
+<!-- BIG IDENTITY LINE (SVG TYPING) -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+IoT+%7C+Automation;AI-Integrated+Hardware+Engineering" />
+</p>
 
+<!-- SUBTITLE -->
 <h3 align="center">
-Building real-world systems using ESP32, sensors, firmware, and intelligent automation
+Designing real-world embedded systems that work beyond the lab
 </h3>
 
 ---
 
-## 👋 About Me
+## 📖 About Me
 
-### 👨‍💻 Who I Am
+I am an **Electronics & Communication Engineering (ECE) student** with a strong interest in  
+**Embedded Systems, Internet of Things (IoT), Automation, and AI-integrated hardware**.
 
-I am an **Electronics & Communication Engineering (ECE) student** with a strong focus on  
-**Embedded Systems, Internet of Things (IoT), Automation, and AI-integrated hardware solutions**.
-
-I don’t just study concepts.  
-I **design, build, test, and improve working systems** that solve real problems.
+My work focuses on **practical system design** — combining hardware, firmware, and logic  
+to build solutions that are deployable, testable, and reliable.
 
 ---
 
-### ⚙️ What I Work With
+## ⚙️ What I Work With
 
-- Microcontrollers: **ESP32**
-- Embedded firmware development
-- Sensor integration and signal handling
-- Hardware–software system integration
-- Automation workflows and logic design
-- AI-assisted and data-driven hardware systems
-
-I believe engineering should **work in the real world**, not just in PPTs and lab records.
+- Embedded firmware development  
+- Microcontrollers (ESP32)  
+- Sensor integration & signal handling  
+- Hardware–software system integration  
+- Automation logic & workflows  
+- Exploring intelligence at the **edge**, not just the cloud  
 
 ---
 
-### 🎯 What I’m Focused On
+## 🛠 Tech Stack (SVG Badges)
 
-- Building **deployable embedded and IoT systems**
-- Creating **smart safety, automation, and monitoring solutions**
-- Exploring **AI at the edge**, not just in the cloud
-- Writing clean, understandable, and reusable code
-- Learning by **building → failing → fixing → improving**
-
----
-
-## 🛠 Tech Stack (Core)
-
-<h3 align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge)
-
-</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Engineering Philosophy
+## 📊 GitHub Overview (SVG Stats)
 
-> “If it doesn’t work outside the lab, it doesn’t matter.”
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" />
+</p>
 
-I value **practical engineering**, documentation, and systems that can be  
-used, tested, and improved by real people.
-
----
-
-## 📌 Current Status
-
-- 🎓 ECE Student  
-- 🛠️ Actively building embedded & IoT projects  
-- 🤝 Open to internships, collaborations, and technical discussions  
-- 📈 Focused on long-term engineering growth
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
+## 🧠 Engineering Philosophy
+
+> If a system only works in a lab or a presentation, it is incomplete.
+
+I value **clarity, reliability, and real-world constraints** over unnecessary complexity.
+
+---
+
+## 🎯 Current Focus
+
+- Building deployable embedded & IoT projects  
+- Smart safety and automation systems  
+- Improving firmware quality and documentation  
+- Learning by building, failing, and refining  
+
+---
+
+<!-- FOOTER SVG -->
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=footer)
