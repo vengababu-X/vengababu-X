@@ -67,19 +67,10 @@
 ---
 
 <!-- ================= GITHUB OVERVIEW (TOP 1% STYLE) ================= -->
-## 📊 GitHub Activity
-
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
-    alt="Most Used Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=github-dark&hide_border=true&hide_title=true"
+    alt="GitHub Activity"
   />
 </p>
 ---
