@@ -1,32 +1,37 @@
 <!-- ================= HEADER ================= -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,100:2c5364&text=Boligorla%20Vengababu&fontSize=58&fontColor=ffffff&fontAlignY=50&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,100:2c5364&text=Boligorla%20Vengababu&fontSize=54&fontColor=ffffff&section=header)
 
 <!-- ================= IDENTITY ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:141e30,100:243b55&text=ECE%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&fontSize=26&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:1e3c72,100:2a5298&text=Building%20reliable%20hardware-software%20systems%20for%20real-world%20use&fontSize=24&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:141e30,100:243b55&text=Building%20practical%20systems%20where%20hardware%20meets%20software&fontSize=22&fontColor=ffffff" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=About%20Me&fontSize=44&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:1e3c72,100:2a5298&text=About%20Me&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:0f2027,100:203a43&text=Electronics%20and%20Communication%20Engineering%20student%20focused%20on%20Embedded%20Systems%2C%20IoT%2C%20and%20system-level%20engineering&fontSize=24&fontColor=ffffff" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:0f2027,100:203a43&text=I%20design%20hardware%20and%20software%20together%20to%20build%20systems%20that%20remain%20stable%20outside%20the%20lab&fontSize=24&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&pause=1400&color=FFFFFF&width=1100&lines=Electronics+and+Communication+Engineering+Student;Focused+on+Embedded+Systems+and+IoT;Strong+interest+in+Software+Engineering+and+Automation;I+build+real-world+systems+not+just+demo+projects" />
 </p>
 
 ---
 
-<!-- ================= FOCUS AREAS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Focus%20Areas&fontSize=42&fontColor=ffffff" />
+<!-- ================= ENGINEERING JOURNEY (RARE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=40&fontColor=ffffff" />
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1400&color=FFFFFF&width=1100&lines=Started+with+ECE+fundamentals;Moved+into+Embedded+Systems+and+ESP32;Expanded+into+IoT+and+System+Integration;Now+combining+Hardware+with+Software+Thinking" />
+</p>
+
+---
+
+<!-- ================= DOMAINS ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:0f2027,100:203a43&text=Domains%20I%20Work%20In&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/Embedded%20Systems-Core-blue?style=for-the-badge" />
@@ -34,21 +39,22 @@
 <img src="https://img.shields.io/badge/ESP32-Firmware-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Software-Engineering-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Automation-Workflows-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Integration-grey?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ================= ENGINEERING APPROACH ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:141e30,100:243b55&text=Engineering%20Approach&fontSize=40&fontColor=ffffff" />
+<!-- ================= HOW I THINK (VERY RARE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:141e30,100:243b55&text=How%20I%20Think%20as%20an%20Engineer&fontSize=38&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:232526,100:414345&text=I%20prioritize%20problem%20understanding%2C%20simplicity%2C%20and%20reliability.%20If%20a%20system%20fails%20in%20real%20conditions%2C%20it%20is%20not%20finished&fontSize=24&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFF&width=1100&lines=Understand+the+problem+before+choosing+technology;Prefer+simple+systems+over+clever+ones;Hardware+and+software+must+be+designed+together;If+it+does+not+work+in+real+conditions+it+is+not+finished" />
 </p>
 
 ---
 
 <!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=42&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%20%2F%20C++-Firmware-blue?style=for-the-badge" />
@@ -60,30 +66,30 @@
 
 ---
 
-<!-- ================= GITHUB ACTIVITY ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0f2027,100:2c5364&text=GitHub%20Activity&fontSize=44&fontColor=ffffff" />
+<!-- ================= GITHUB OVERVIEW (TOP 1% STYLE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0f2027,100:2c5364&text=GitHub%20Overview&fontSize=44&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&custom_title=GitHub%20Activity%20Snapshot" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
 
-<!-- ================= CURRENT INTERESTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Current%20Interests&fontSize=40&fontColor=ffffff" />
+<!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=38&fontColor=ffffff" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:0f2027,100:203a43&text=Edge%20AI%2C%20robust%20hardware-software%20interfaces%2C%20and%20automation%20under%20real-world%20constraints&fontSize=24&fontColor=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFF&width=1100&lines=Edge+AI+for+Embedded+Devices;Reliable+Hardware-Software+Interfaces;Automation+that+reduces+human+error;Designing+systems+for+real+constraints" />
 </p>
 
 ---
 
 <!-- ================= CONNECT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Connect&fontSize=42&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:232526,100:414345&text=Connect%20With%20Me&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/boligorla-vengababu-503729349">
@@ -92,6 +98,9 @@
 <a href="https://x.com/BoligorlaV24746">
 <img src="https://img.shields.io/badge/X-Tech%20Updates-black?style=for-the-badge&logo=x" />
 </a>
+<a href="https://www.snapchat.com/add/king_venga">
+<img src="https://img.shields.io/badge/Snapchat-Personal-yellow?style=for-the-badge&logo=snapchat" />
+</a>
 <a href="https://share.google/4ObLW1ijN7wW9C8cT">
 <img src="https://img.shields.io/badge/Google-Student%20Ambassador-red?style=for-the-badge&logo=google" />
 </a>
@@ -99,4 +108,5 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&section=footer)
+<!-- ================= FOOTER ================= -->
+![Footer](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&section=footer)
