@@ -113,5 +113,8 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&section=footer)
+---
+
+<p align="center">
+  <img src="assets/end.png" alt="End of README" width="100%" />
+</p>
