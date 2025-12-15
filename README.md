@@ -1,6 +1,6 @@
-<!-- ================= HEADER ================= -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,100:2c5364&text=Boligorla%20Vengababu&fontSize=54&fontColor=ffffff&section=header)
-
+<<p align="center">
+  <img src="assets/header.png" alt="Boligorla Vengababu Header" width="100%" />
+</p>
 <!-- ================= IDENTITY ================= -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Software+and+Hardware+Engineer;Google+Student+Ambassador" />
