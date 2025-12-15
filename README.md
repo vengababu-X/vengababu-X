@@ -67,19 +67,21 @@
 ---
 
 <!-- ================= GITHUB OVERVIEW (CLEAN PRO STYLE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0f2027,100:2c5364&text=GitHub%20Overview&fontSize=46&fontColor=ffffff" />
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vengababu-X&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&include_all_commits=true&custom_title=Development%20Activity%20Summary" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&hide_border=true&theme=tokyonight&langs_count=5&custom_title=Primary%20Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vengababu-X&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    alt="Most Used Languages"
+  />
 </p>
-
-✔ Clean  
-✔ No ugly contribution emphasis  
-✔ Reads like a professional summary  
 
 ---
 
