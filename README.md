@@ -22,7 +22,7 @@
 ---
 
 <!-- ================= ENGINEERING JOURNEY (RARE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:232526,100:414345&text=Engineering%20Journey&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1400&color=FFFFFH&width=1100&lines=Started+with+ECE+fundamentals;Moved+into+Embedded+Systems+and+ESP32;Expanded+into+IoT+and+System+Integration;Now+combining+Hardware+with+Software+Thinking" />
@@ -31,7 +31,7 @@
 ---
 
 <!-- ================= DOMAINS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:0f2027,100:203a43&text=Domains%20I%20Work%20In&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:0f2027,100:203a43&text=Domains%20I%20Work%20In&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/Embedded%20Systems-Core-blue?style=for-the-badge" />
@@ -45,7 +45,7 @@
 ---
 
 <!-- ================= HOW I THINK (VERY RARE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:141e30,100:243b55&text=How%20I%20Think%20as%20an%20Engineer&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:141e30,100:243b55&text=How%20I%20Think%20as%20an%20Engineer&fontSize=38&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFH&width=1100&lines=Understand+the+problem+before+choosing+technology;Prefer+simple+systems+over+clever+ones;Hardware+and+software+must+be+designed+together;If+it+does+not+work+in+real+conditions+it+is+not+finished" />
@@ -54,7 +54,7 @@
 ---
 
 <!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:232526,100:414345&text=Core%20Tech%20Stack&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%20%2F%20C++-Firmware-blue?style=for-the-badge" />
@@ -91,7 +91,7 @@
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=38&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFH&width=1100&lines=Edge+AI+for+Embedded+Devices;Reliable+Hardware-Software+Interfaces;Automation+that+reduces+human+error;Designing+systems+for+real+constraints" />
