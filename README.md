@@ -74,6 +74,16 @@
   />
 </p>
 
+
+---
+
+<!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=38&fontColor=ffffff" />
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFF&width=1100&lines=Edge+AI+for+Embedded+Devices;Reliable+Hardware-Software+Interfaces;Automation+that+reduces+human+error;Designing+systems+for+real+constraints" />
+</p>
+
 ## 🎧 Focus & Philosophy
 
 <p align="center">
@@ -85,15 +95,6 @@
 <p align="center">
   <i>Bhagavad Gita • Discipline • Clarity • Focus Mode</i>
 </p>
----
-
-<!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1e3c72,100:2a5298&text=Currently%20Exploring&fontSize=38&fontColor=ffffff" />
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1500&color=FFFFFF&width=1100&lines=Edge+AI+for+Embedded+Devices;Reliable+Hardware-Software+Interfaces;Automation+that+reduces+human+error;Designing+systems+for+real+constraints" />
-</p>
-
 ---
 
 <!-- ================= CONNECT ================= -->
