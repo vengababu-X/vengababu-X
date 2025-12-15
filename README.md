@@ -74,15 +74,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="assets/Screenshot_20251215_175411_Instagram.jpg"
-       alt="Bhagavad Gita Telugu – Spotify"
-       width="420" />
-</p>
 
-<p align="center">
-  <i>Bhagavad Gita • Telugu Discourses • Focus Mode</i>
-</p>
 ---
 
 <!-- ================= CURRENTLY EXPLORING (RARE) ================= -->
