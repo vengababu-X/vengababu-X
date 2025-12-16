@@ -1,5 +1,5 @@
 <<p align="center">
-  <img src="assets/header.png" alt="Boligorla Vengababu Header" width="50%" />
+  <img src="assets/header.png" alt="Boligorla Vengababu Header" width="70%" />
 </p>
 <!-- ================= IDENTITY ================= -->
 <p align="center">
