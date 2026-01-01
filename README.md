@@ -134,7 +134,7 @@
 
 ---
 
-<p align="right">
+<p align="center"
   <img src="assets/file_00000000b00c71fdb40aabd0028e3dcb.png"
        alt="Bhagavad Gita"
        width="420" />
