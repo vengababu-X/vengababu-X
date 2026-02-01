@@ -1,33 +1,40 @@
 <p align="center">
-  <img src="assets/header.png" alt="Boligorla Vengababu Header" width="90%" />
-</p>
-
-<!-- ================= IDENTITY ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Innovator;Hardware+%2B+Software+Engineer;Google+Student+Ambassador" />
+  <img src="assets/header.png" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:141e30,100:243b55&text=Building%20real-world%20systems%20where%20hardware%20meets%20software&fontSize=22&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=40&pause=900&color=FFFFFF&center=true&vCenter=true&width=1200&lines=ECE+Engineering+Student;Embedded+Systems+%7C+IoT+Builder;Hardware+%2B+Software+Thinker;Automation+First+Mindset;Google+Student+Ambassador" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=95&color=0:141e30,100:243b55&text=I+build+systems+that+actually+run+in+the+real+world&fontSize=22&fontColor=ffffff" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚙️ About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1400&color=FFFFFF&width=1100&lines=Electronics+and+Communication+Engineering+Student;Focused+on+Embedded+Systems+and+IoT;Strong+interest+in+Software+Engineering+and+Automation;I+build+systems+that+work+outside+the+lab" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 </p>
 
-I’m an ECE student who treats engineering like a responsibility, not a slideshow.  
-I enjoy building **practical, constraint-aware systems** where firmware, hardware, and software actually agree with each other.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&pause=1300&color=FFFFFF&width=1200&lines=Electronics+and+Communication+Engineering+Student;Embedded+Systems+and+ESP32+Focused;IoT+%7C+Automation+%7C+System+Design;I+ship+working+systems+not+PowerPoint+projects" />
+</p>
+
+I don’t chase buzzwords.  
+I design **end-to-end systems** where sensors, firmware, backend logic, and automation don’t fight each other.
 
 ---
 
-## 🚀 Engineering Journey
+## 🧭 Engineering Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1400&color=FFFFFF&width=1100&lines=Strong+ECE+fundamentals;ESP32+and+Embedded+Firmware;IoT+System+Design+and+Integration;Now+bridging+Hardware+thinking+with+Software+architecture" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1400&color=FFFFFF&width=1200&lines=Strong+ECE+Foundations;ESP32+Firmware+and+Low-Level+Control;IoT+System+Integration;Now+thinking+in+Architectures+not+Just+Code" />
 </p>
 
 ---
@@ -38,18 +45,46 @@ I enjoy building **practical, constraint-aware systems** where firmware, hardwar
   <img src="https://img.shields.io/badge/Embedded%20Systems-Core-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IoT-Architecture-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-Firmware-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software-Engineering-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-n8n-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-Flow-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Integration-grey?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 How I Think as an Engineer
+## 🧠 Vibe Coding
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1500&color=FFFFFF&width=1100&lines=Understand+the+problem+before+choosing+technology;Prefer+simple+systems+over+clever+ones;Hardware+and+software+are+designed+together;If+it+fails+in+real+conditions+it+is+not+done" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1500&color=FFFFFF&width=1200&lines=Late+night+coding+sessions;Music+on+repeat;Focus+over+features;Flow+state+engineering" />
+</p>
+
+Vibe coding for me means:
+- Writing code when the brain is quiet  
+- Building until the system *feels right*  
+- Optimizing for clarity, not cleverness  
+
+---
+
+## 🔁 Automation & n8n Brain
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1400&color=FFFFFF&width=1200&lines=n8n+Workflow+Automation;Event-Driven+Systems;APIs+that+talk+to+Each+Other;Removing+Human+Error+with+Logic" />
+</p>
+
+I use **n8n** to:
+- Automate repetitive workflows  
+- Connect hardware events to software actions  
+- Build low-code control planes for real systems  
+
+Automation is not optional. It’s leverage.
 
 ---
 
@@ -57,15 +92,15 @@ I enjoy building **practical, constraint-aware systems** where firmware, hardwar
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%20%2F%20C++-Firmware-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Software-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Logic-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-MCU-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sensors-Integration-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-Backend-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensors-Real%20World-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-Glue-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vengababu-X&theme=github-dark&hide_border=true" />
@@ -81,27 +116,19 @@ I enjoy building **practical, constraint-aware systems** where firmware, hardwar
 
 ---
 
-## 🔍 Currently Exploring
+## 🧘 Focus & Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=25&pause=1500&color=FFFFFF&width=1100&lines=Edge+AI+for+Embedded+Devices;Reliable+Hardware-Software+Interfaces;Automation+that+reduces+human+error;Designing+for+real-world+constraints" />
+  <img src="assets/Bhagavad-Gita-English_Front.png" width="420" />
+</p>
+
+<p align="center">
+  <i>Discipline • Detachment • Long-term thinking</i>
 </p>
 
 ---
 
-## 🎧 Focus & Philosophy
-
-<p align="center">
-  <img src="assets/Bhagavad-Gita-English_Front.png" alt="Bhagavad Gita" width="420" />
-</p>
-
-<p align="center">
-  <i>Discipline • Clarity • Focus over noise</i>
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/boligorla-vengababu-503729349">
@@ -121,5 +148,5 @@ I enjoy building **practical, constraint-aware systems** where firmware, hardwar
 ---
 
 <p align="center">
-  <sub>Built with intent. Maintained with discipline.</sub>
+  <sub>Systems over slogans. Focus over noise.</sub>
 </p>
